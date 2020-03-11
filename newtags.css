@@ -1,0 +1,135 @@
+body{
+    background-color: skyblue;
+}
+
+header{
+    
+    height: 100px;
+    width: auto;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    background:linear-gradient(blue,white);
+    
+    
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 10px;
+}
+nav{
+    
+    height: 40px;
+    width: auto;
+    background-color: blue;
+     padding-top: 20px;
+
+    
+}
+section{
+   
+    height: 849px;
+    width: 22%;
+  
+    
+
+}
+
+
+aside{
+    
+    height: 850px;
+    width: 78%;
+    float: right;
+    margin-top: -849px;
+    
+}
+
+footer{
+    
+    height: 50px;
+    width: auto;
+}
+
+
+.one{
+    margin-left: 100px;
+
+    padding: 10px 10px 10px 10px;
+    background-color: skyblue;
+}
+.two{
+    margin-left: 430px;
+    padding: 10px 10px 10px 10px;
+     background-color: skyblue;
+}
+.three{
+    margin-left: 400px;
+    padding: 10px 10px 10px 10px;
+     background-color: skyblue;
+}
+
+    
+    
+   
+.btn1{
+    margin-left: 120px;
+    margin-top: -25px;
+
+}
+
+.btn2{
+    margin-left: 50px;
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+
+
+.article{
+    
+    font-size: 30px;
+    background-color: skyblue;
+}
+
+
+
+
+  
+
+
+.div1 {
+    float: right;
+   
+    margin-right: 20px;
+    margin-top: 30px;
+    
+    }
+.div1 img{
+    
+    margin-bottom: 30px;
+    margin-top: -10px;
+    border: solid;
+}
+
+.pad
+{
+padding-right: 30px;
+
+}
+
+.div1 .ang{
+    
+    padding: 10px 20px 10px 20px;
+    position: absolute;
+    margin-top: -77px;
+    margin-left: 90px;
+    color: white;
+    border-radius: 20px;
+    text-shadow: 3px 3px 3px;
+    font-size: 30px;
+
+}
+
+.div1 .ang:hover{
+    background: linear-gradient(white,red);
+}
